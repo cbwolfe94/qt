@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/HelloWorld.dir/HelloWorld_autogen/mocs_compilation.cpp.o CMakeFiles/HelloWorld.dir/main.cpp.o -o HelloWorld  -Wl,-rpath,/home/conner/Qt/6.2.3/gcc_64/lib /home/conner/Qt/6.2.3/gcc_64/lib/libQt6Core.so.6.2.3 -pthread 

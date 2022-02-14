@@ -1,0 +1,4 @@
+/home/conner/Documents/qt/build-HelloWorld-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/conner/Documents/qt/build-HelloWorld-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/conner/Documents/qt/build-HelloWorld-Desktop-Debug/CMakeFiles/HelloWorld.dir
+/home/conner/Documents/qt/build-HelloWorld-Desktop-Debug/CMakeFiles/HelloWorld_autogen.dir
